@@ -1,0 +1,11 @@
+server side:
+npm init -y
+npm i body-parser cors express mongoose nodemon
+
+client side:
+npx create-react-app ./
+npm i axios momnet react-file-base64 redux redux-thunk
+
+mongodb atlas:
+user: crud
+password: crud123
