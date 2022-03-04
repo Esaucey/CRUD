@@ -6,6 +6,7 @@ client side:
 npx create-react-app ./
 npm i axios momnet react-file-base64 redux redux-thunk
 npm i @material-ui/core
+npm i react-redux
 
 mongodb atlas:
 user: crud
